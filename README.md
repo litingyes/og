@@ -1,6 +1,6 @@
 # OG
 
-Configure, preview, and generate the Open Graph protocol
+Configure, preview, and generate the [Open Graph protocol](https://ogp.me/).
 
 ## Features
 
