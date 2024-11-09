@@ -9,6 +9,7 @@ export default antfu(
     plugins: {
       next,
     },
+    ignores: ['./node_modules', './.next', './pnpm-lock.yaml'],
   },
   ...tailwind.configs['flat/recommended'],
 )
